@@ -8,6 +8,7 @@ This project is a watch party platform that allows users to watch movies, TV sho
 - PHP
 - JavaScript
 - HTML
+- node.js + socket.io
 
 ## High-Level Features
 - User signup/ Login
